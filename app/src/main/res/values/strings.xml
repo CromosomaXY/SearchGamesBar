@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SearchGamesBar</string>
+    <string-array name="array_games">
+        <item>Octopath traveller</item>
+        <item>Just Dance 2017</item>
+        <item>Crash Bandicoot</item>
+        <item>Super Mario Odyssey</item>
+        <item>PuyoPuyo Tetris</item>
+        <item>Xenoblade 2</item>
+        <item>Mario Kart 8</item>
+    </string-array>
+</resources>
